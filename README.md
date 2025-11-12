@@ -110,7 +110,7 @@ Aquí hay 9 endpoints para probar la funcionalidad de la API.
 -   **URL:** `http://localhost:3000/api/maquinas/1/reparaciones`
 -   **Respuesta:** `200 OK` con un array de todas las reparaciones asociadas a la máquina ID 1.
 
-### 8. Avanzado: Obtener Estadísticas por Máquina (¡NUEVO!)
+### 8. Avanzado: Obtener Estadísticas por Máquina
 -   **Método:** `GET`
 -   **URL:** `http://localhost:3000/api/maquinas/1/stats`
 -   **Respuesta:** `200 OK` con un objeto JSON que calcula el total de reparaciones y el costo total **solo para esa máquina**.
