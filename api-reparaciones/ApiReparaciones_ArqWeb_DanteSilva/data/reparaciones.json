@@ -1,0 +1,37 @@
+[
+  {
+    "id_reparacion": 1,
+    "id_maquina": 1,
+    "fecha": "2025-10-20",
+    "descripcion": "Cambio de carbones",
+    "costo": 1500
+  },
+  {
+    "id_reparacion": 2,
+    "id_maquina": 2,
+    "fecha": "2025-10-22",
+    "descripcion": "Reparación de interruptor",
+    "costo": 2200
+  },
+  {
+    "id_maquina": 3,
+    "fecha": "2025-11-15",
+    "descripcion": "Motor quemado",
+    "costo": 8500,
+    "id_reparacion": 3
+  },
+  {
+    "id_maquina": 1,
+    "fecha": "2025-09-12",
+    "descripcion": "Cambio de Interruptor",
+    "costo": 7000,
+    "id_reparacion": 4
+  },
+  {
+    "id_maquina": 1,
+    "fecha": "2025-10-14",
+    "descripcion": "Cambio de engranajes",
+    "costo": 1500,
+    "id_reparacion": 5
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "marca": "Hilti",
+    "modelo": "Taladro Percutor 800W"
+  },
+  {
+    "id": 2,
+    "marca": "Bosch",
+    "modelo": "Amoladora Angular GWS 700"
+  },
+  {
+    "id": 3,
+    "marca": "Hilti",
+    "modelo": "Sierra Circular CS13"
+  }
+]
